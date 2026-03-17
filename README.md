@@ -38,4 +38,4 @@ To study the operation of LVDT- Linear Variable Differential Transformer.
 <img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/4b37e4e1-5b54-4687-ad7e-16dbc5336207" />
 Thus the operation of LVDT was studied and the displacement was measured. 
 
-](https://github.com/sushil-12-cmd/CHARACTERISTICS-OF-PN-JUNCTION-DIODE)
+](https://github.com/VISHWA-12-cmd/CHARACTERISTICS-OF-PN-JUNCTION-DIODE)
