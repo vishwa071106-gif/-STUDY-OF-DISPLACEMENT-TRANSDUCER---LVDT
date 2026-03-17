@@ -1,7 +1,7 @@
 [# STUDY-OF-DISPLACEMENT-TRANSDUCER---LVDT
 
-## Name: Sushil Shiva R
-## Reg No: 212224250017
+## Name: VISHWA D
+## Reg No: 212224080061
 
 ## Aim:
 To study the operation of LVDT- Linear Variable Differential Transformer.
